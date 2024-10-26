@@ -22,3 +22,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrandel&show_icons=true&theme=dark&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
 
 ![rrandel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrandel&show_icons=true&theme=dark&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5) 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rrandel&theme=catppuccin-mocha&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CFri%2CSat&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
