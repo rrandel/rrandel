@@ -1,18 +1,5 @@
 # 🧑‍💻 Robert Randel
-**`Digital Connoisseur (Delevoper/Military enthusiat)`**
-### 🔨 Tools and Languages
-
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="OpenGL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" />
-<img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
-<img align="left" alt="Premake" width="30px" style="padding-right:10px;" src="https://premake.github.io/img/premake-logo.png" />
-<img align="left" alt="Davinci Resolve" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/DaVinci_Resolve_Studio.png/480px-DaVinci_Resolve_Studio.png" />
-<img align="left" alt="Vulkan" width="70px" style="padding-right:10px;" src="https://d29g4g2dyqv443.cloudfront.net/sites/default/files/Vulkan_Logo.png" />
+![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&lineCount=2&theme=catppuccin_mocha&width=500&bg=%231e1e2e&badge=%23181825&border=%236c7086&titleColor=%2394e2d5&line1=cplusplus%2CC%2B%2B%2C00599C%3Bopengl%2COpenGL%2C5586A4%3BGit%2CGit%2CF05032%3Bmake%2CMake%2C6D00CC%3Blua%2CLua%2C2C2D72%3B&line2=HTML5%2CHTML%2CE34F26%3BCSS3%2CCSS%2C1572B6%3BReact%2CReact%2C61DAFB%3BPython%2CPython%2C3776AB%3B)
 <br />
 
 ---
